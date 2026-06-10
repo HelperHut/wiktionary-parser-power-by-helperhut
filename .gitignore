@@ -1,0 +1,16 @@
+# ❌ Node modules (never upload)
+node_modules/
+
+# ❌ Output / generated data
+data/output/
+data/filter/
+
+# ❌ Logs
+*.log
+
+# ❌ OS files
+.DS_Store
+Thumbs.db
+
+# ❌ Environment files (if you use later)
+.env
