@@ -4,7 +4,9 @@
   "description": "",
   "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build.js",
+    "filter": "node filter.js",
+    "trans": "node transfilter.js"
   },
   "keywords": [],
   "author": "",
