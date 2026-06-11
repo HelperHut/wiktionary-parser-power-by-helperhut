@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node build.js",
     "filter": "node filter.js",
-    "trans": "node transfilter.js"
+    "trans": "node transfilter.js",
+    "start": "npm run build && npm run filter && npm run trans"
   },
   "keywords": [],
   "author": "",
