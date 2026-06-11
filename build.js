@@ -10,7 +10,7 @@ const { extractSynonyms } = require("./parser/extract-synonyms");
 const { extractTranslations } = require("./parser/extract-translations");
 
 const INPUT =
-  "D:\\Downloads\\enwiktionary-latest-pages-articles.xml.bz2";
+  "D:\\Downloads\\enwiktionary-latest-pages-articles.xml.bz2"; //YourLocalPath
 
 const OUTPUT = path.join(__dirname, "./data/output/structured.ndjson");
 
