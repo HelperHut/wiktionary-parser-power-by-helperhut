@@ -1,4 +1,4 @@
-# 📘 Wiktionary Dictionary Builder
+# Wiktionary Dictionary Builder
 
 A Node.js pipeline that parses the latest **English Wiktionary XML dump (.bz2)** and converts it into a structured, filtered dictionary dataset in NDJSON format.
 
