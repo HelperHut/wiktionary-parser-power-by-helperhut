@@ -37,8 +37,5 @@ mkdir -p data/output data/filter
 # Set your input file path in build.js:
 # const INPUT = "D:\\Downloads\\enwiktionary-latest-pages-articles.xml.bz2";
 
-# Run build
-node build.js
+npm start
 
-# Run filter
-node filter.js
